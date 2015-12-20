@@ -1,6 +1,5 @@
 
 	import org.bukkit.plugin.java.*;
-	
 	import org.bukkit.command.*;
 	//Anthony is so cool
 	public class Plugin extends JavaPlugin{
